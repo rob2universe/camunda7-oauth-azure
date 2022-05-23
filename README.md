@@ -1,5 +1,3 @@
-# vanilla-camunda-template
+# Camunda7-oauth-Azure
 
-This is a template repository to create a plain vanilla CAMUNDA Platform EE Spring Boot project.
-
-This is the best generic starting point!  - Change my mind :)
+This is an example project showing how to add Azure Active Directory SSO to Camunda 7.
